@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">宽带密码工具</string>
+    <string name="getCode">获取宽带密码</string>
+    <string name="wait">转发</string>
+</resources>
